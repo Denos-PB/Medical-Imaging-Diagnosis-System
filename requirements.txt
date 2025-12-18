@@ -1,0 +1,14 @@
+torch
+torchvision
+pandas
+numpy
+opencv-python
+albumentations
+scikit-learn
+matplotlib
+seaborn
+tqdm
+pillow
+pyyaml
+tensorboard
+gradio
