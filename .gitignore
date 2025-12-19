@@ -4,8 +4,7 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 #data
-data/raw/train
-data/raw/valid
+CheXpert-v1.0-small
 
 # User-specific files
 *.rsuser
